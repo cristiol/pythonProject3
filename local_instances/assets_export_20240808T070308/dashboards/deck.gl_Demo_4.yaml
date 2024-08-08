@@ -1,0 +1,130 @@
+certification_details: null
+certified_by: null
+css: null
+dashboard_title: deck.gl Demo
+description: null
+position:
+  CHART-201f7715:
+    children: []
+    id: CHART-201f7715
+    meta:
+      chartId: 130
+      height: 50
+      sliceName: Deck.gl Hexagons
+      uuid: 19396998-d539-49d5-8de3-ddf4f365a90f
+      width: 6
+    type: CHART
+  CHART-2673431d:
+    children: []
+    id: CHART-2673431d
+    meta:
+      chartId: 132
+      height: 50
+      sliceName: Deck.gl Polygons
+      uuid: 7a0962ae-37b2-496e-b531-adaaa4a88453
+      width: 6
+    type: CHART
+  CHART-2b87513c:
+    children: []
+    id: CHART-2b87513c
+    meta:
+      chartId: 134
+      height: 50
+      sliceName: Deck.gl Path
+      uuid: 24321618-0d1c-4518-abf4-64f62a5bb6a2
+      width: 6
+    type: CHART
+  CHART-2ee7fa5e:
+    children: []
+    id: CHART-2ee7fa5e
+    meta:
+      chartId: 129
+      height: 50
+      sliceName: Deck.gl Screen grid
+      uuid: 833b75ff-e4b6-4c5c-a93a-4323c29387e2
+      width: 6
+    type: CHART
+  CHART-3afd9d70:
+    children: []
+    id: CHART-3afd9d70
+    meta:
+      chartId: 128
+      height: 50
+      sliceName: Deck.gl Scatterplot
+      uuid: f7bbd134-3357-459f-ab53-eeae0ff4fd79
+      width: 6
+    type: CHART
+  CHART-85265a60:
+    children: []
+    id: CHART-85265a60
+    meta:
+      chartId: 133
+      height: 50
+      sliceName: Deck.gl Arcs
+      uuid: f8b27ec9-c0f8-43d6-8c26-747200765e34
+      width: 6
+    type: CHART
+  CHART-d02f6c40:
+    children: []
+    id: CHART-d02f6c40
+    meta:
+      chartId: 131
+      height: 50
+      sliceName: Deck.gl Grid
+      uuid: 5a50e585-83a5-402a-9229-3da702371e54
+      width: 6
+    type: CHART
+  DASHBOARD_VERSION_KEY: v2
+  GRID_ID:
+    children:
+    - ROW-a7b16cb5
+    - ROW-72c218a5
+    - ROW-957ba55b
+    - ROW-af041bdd
+    id: GRID_ID
+    type: GRID
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: deck.gl Demo
+    type: HEADER
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW-72c218a5:
+    children:
+    - CHART-d02f6c40
+    - CHART-201f7715
+    id: ROW-72c218a5
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    type: ROW
+  ROW-957ba55b:
+    children:
+    - CHART-2673431d
+    - CHART-85265a60
+    id: ROW-957ba55b
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    type: ROW
+  ROW-a7b16cb5:
+    children:
+    - CHART-3afd9d70
+    - CHART-2ee7fa5e
+    id: ROW-a7b16cb5
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    type: ROW
+  ROW-af041bdd:
+    children:
+    - CHART-2b87513c
+    id: ROW-af041bdd
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    type: ROW
+published: true
+slug: deck
+uuid: 1b4a2615-b41b-4b53-8a07-b1310f0331c1
+version: 1.0.0

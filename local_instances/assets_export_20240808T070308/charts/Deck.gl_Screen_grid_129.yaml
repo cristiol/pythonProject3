@@ -1,0 +1,41 @@
+cache_timeout: null
+certification_details: null
+certified_by: null
+dataset_uuid: 7d87ab1f-d379-48fe-a29e-c0dc45798b08
+description: null
+params:
+  color_picker:
+    a: 1
+    b: 0
+    g: 255
+    r: 14
+  datasource: 5__table
+  granularity_sqla: null
+  grid_size: 20
+  groupby: []
+  mapbox_style: mapbox://styles/mapbox/dark-v9
+  point_radius: Auto
+  point_radius_fixed:
+    type: fix
+    value: 2000
+  point_unit: square_m
+  row_limit: 5000
+  size: count
+  spatial:
+    latCol: LAT
+    lonCol: LON
+    type: latlong
+  time_grain_sqla: null
+  time_range: No filter
+  viewport:
+    bearing: -4.952916738791771
+    latitude: 37.76024135844065
+    longitude: -122.41827069521386
+    pitch: 4.750411100577438
+    zoom: 14.161641703941438
+  viz_type: deck_screengrid
+query_context: null
+slice_name: Deck.gl Screen grid
+uuid: 833b75ff-e4b6-4c5c-a93a-4323c29387e2
+version: 1.0.0
+viz_type: deck_screengrid

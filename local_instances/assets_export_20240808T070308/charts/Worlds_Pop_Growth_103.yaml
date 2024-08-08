@@ -1,0 +1,28 @@
+cache_timeout: null
+certification_details: null
+certified_by: null
+dataset_uuid: 49067df9-0250-49ec-8163-41e7c12e26e3
+description: null
+params:
+  compare_lag: '10'
+  compare_suffix: o10Y
+  country_fieldtype: cca3
+  entity: country_code
+  granularity_sqla: year
+  groupby:
+  - region
+  limit: '25'
+  markup_type: markdown
+  metrics:
+  - sum__SP_POP_TOTL
+  row_limit: 50000
+  show_bubbles: true
+  since: '1960-01-01'
+  time_range: '2014-01-01 : 2014-01-02'
+  until: now
+  viz_type: area
+query_context: null
+slice_name: World's Pop Growth
+uuid: df18cd1b-ddda-47c8-a92a-508f1ce24831
+version: 1.0.0
+viz_type: area

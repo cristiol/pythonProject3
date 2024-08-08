@@ -1,0 +1,21 @@
+cache_timeout: null
+certification_details: null
+certified_by: null
+dataset_uuid: 7d87ab1f-d379-48fe-a29e-c0dc45798b08
+description: null
+params:
+  all_columns:
+  - occupancy
+  all_columns_x: LON
+  all_columns_y: LAT
+  granularity_sqla: day
+  mapbox_style: mapbox://styles/mapbox/light-v9
+  row_limit: 500000
+  since: '2014-01-01'
+  until: now
+  viz_type: mapbox
+query_context: null
+slice_name: Mapbox Long/Lat
+uuid: 6939edf8-6479-4057-a6a5-7c3ee8e4595d
+version: 1.0.0
+viz_type: mapbox

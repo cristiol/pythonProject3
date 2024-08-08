@@ -1,0 +1,32 @@
+cache_timeout: null
+certification_details: null
+certified_by: null
+dataset_uuid: 5ef5734e-8629-49b0-9549-30c2e51bbddd
+description: null
+params:
+  compare_lag: '10'
+  compare_suffix: o10Y
+  granularity_sqla: ds
+  groupby: []
+  limit: '25'
+  markup_type: markdown
+  metrics:
+  - aggregate: AVG
+    column:
+      column_name: num
+      type: BIGINT(20)
+    expressionType: SIMPLE
+    label: AVG(num)
+    optionName: metric_vgops097wej_g8uff99zhk7
+  metrics_b:
+  - sum__num
+  row_limit: 50000
+  time_range: '100 years ago : now'
+  viz_type: mixed_timeseries
+  yAxisIndex: 0
+  yAxisIndexB: 1
+query_context: null
+slice_name: Average and Sum Trends
+uuid: 15943bee-1747-47a6-8565-99b7b399d041
+version: 1.0.0
+viz_type: mixed_timeseries

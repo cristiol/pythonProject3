@@ -1,0 +1,42 @@
+cache_timeout: null
+certification_details: null
+certified_by: null
+dataset_uuid: 7d87ab1f-d379-48fe-a29e-c0dc45798b08
+description: null
+params:
+  color_picker:
+    a: 0.82
+    b: 3
+    g: 0
+    r: 205
+  datasource: 5__table
+  granularity_sqla: null
+  groupby: []
+  mapbox_style: mapbox://styles/mapbox/light-v9
+  max_radius: 250
+  min_radius: 1
+  multiplier: 10
+  point_radius_fixed:
+    type: metric
+    value: count
+  point_unit: square_m
+  row_limit: 5000
+  size: count
+  spatial:
+    latCol: LAT
+    lonCol: LON
+    type: latlong
+  time_grain_sqla: null
+  time_range: ' : '
+  viewport:
+    bearing: -4.952916738791771
+    latitude: 37.78926922909199
+    longitude: -122.42613341901688
+    pitch: 4.750411100577438
+    zoom: 12.729132798697304
+  viz_type: deck_scatter
+query_context: null
+slice_name: Deck.gl Scatterplot
+uuid: f7bbd134-3357-459f-ab53-eeae0ff4fd79
+version: 1.0.0
+viz_type: deck_scatter
